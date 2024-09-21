@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://victorious-bay-0bf37f303.3.azurestaticapps.net/](https://victorious-bay-0bf37f303.3.azurestaticapps.net/)
+- 👨‍💻 All of my projects are available at [https://elishakiplangat.me](https://elishakiplangat.me)
 
 - 💬 Ask me about **javascript, Typescript, php, Drizzle, Hono, ...**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/elisha-ronoh-111904260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisha ronoh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elisha-kiplangat-111904260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
