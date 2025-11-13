@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://elishakiplangat.me](https://elishakiplangat.me)
+- 👨‍💻 All of my projects are available at [https://elishakiplangat.vercel.app](https://elishakiplangat.vercel.app)
 
 - 💬 Ask me about **Javascript, Typescript, php, Drizzle, Hono, ...**
 
