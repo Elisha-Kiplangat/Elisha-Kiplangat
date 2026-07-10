@@ -5,7 +5,7 @@
 <h3 align="center"> I'm Elisha</h3>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://elishakiplangat.vercel.app](https://elishakiplangat.vercel.app)
 
