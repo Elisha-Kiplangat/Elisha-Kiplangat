@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://elishakiplangat.vercel.app](https://elishakiplangat.vercel.app)
+- 👨‍💻 All of my projects are available at [https://elisha-ronoh.pages.dev](https://elisha-ronoh.pages.dev/)
 
 - 💬 Ask me about **Javascript, Typescript, php, Drizzle, Hono, ...**
 
-- 📫 How to reach me **elishakiplanga@gmail.com**
+- 📫 How to reach me **elishakronoh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
